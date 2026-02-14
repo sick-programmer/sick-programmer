@@ -32,8 +32,8 @@
 - ⚙️ DevOps-curious — automation, CI/CD, and infrastructure thinking  
 - 📊 Exploring Data Science & applied analytics  
 - ⛏️ Mining Engineer bridging engineering systems with software  
-- 🧠 Problem solver on LeetCode | Tech reader & system thinker  
-
+- 🧠 Problem solver | Tech reader & system thinker  
+**Solution comes first then optimization**
 - :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erinfolami-peter-3330111a4/)
 
 ---
