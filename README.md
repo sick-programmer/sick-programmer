@@ -27,14 +27,12 @@
 
 ### :man_technologist: About Me :
 
-
-I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a freelancer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring data science.
-- 🌱 I’m currently learning more on devops
-- 😄 Pronouns: Him/He/His
-- :zap: In my free time, I solve problems on leetcode and read tech articles on medium.
+- 🚀 Full-Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> (Backend-leaning)  
+- 🛠️ Building scalable web systems, APIs, and real-world solutions  
+- ⚙️ DevOps-curious — automation, CI/CD, and infrastructure thinking  
+- 📊 Exploring Data Science & applied analytics  
+- ⛏️ Mining Engineer bridging engineering systems with software  
+- 🧠 Problem solver on LeetCode | Tech reader & system thinker  
 
 - :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erinfolami-peter-3330111a4/)
 
@@ -51,40 +49,24 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresQl"  alt="postgres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI"  alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="StoryBook" alt="StoryBook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" **alt="JQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shady-cj&count_private=true&theme=dark&background=000000&showicons=true)]()
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shady-cj&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shady-cj&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sick-programmer&show_icons=true&theme=radical)](https://github.com/sick-programmer)
 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sick-programmer&theme=radical)](https://github.com/sick-programmer)
 
-
-<!--
-**shady-cj/shady-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
