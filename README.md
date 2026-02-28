@@ -67,7 +67,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sick-programmer&show_icons=true&theme=radical)](https://github.com/sick-programmer)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dshady-programmer&show_icons=true&theme=radical)](https://github.com/dshady-programmer)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sick-programmer&theme=radical)](https://github.com/sick-programmer)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=dshady-programmer&theme=radical)](https://github.com/dshady-programmer)
 
